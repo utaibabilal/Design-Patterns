@@ -1,7 +1,0 @@
-D:\Patterns\Configurator\Configurator\bin\Debug\Configurator.exe
-D:\Patterns\Configurator\Configurator\bin\Debug\Configurator.pdb
-D:\Patterns\Configurator\Configurator\obj\x86\Debug\Configurator.Form1.resources
-D:\Patterns\Configurator\Configurator\obj\x86\Debug\Configurator.Properties.Resources.resources
-D:\Patterns\Configurator\Configurator\obj\x86\Debug\Configurator.csproj.GenerateResource.Cache
-D:\Patterns\Configurator\Configurator\obj\x86\Debug\Configurator.exe
-D:\Patterns\Configurator\Configurator\obj\x86\Debug\Configurator.pdb
